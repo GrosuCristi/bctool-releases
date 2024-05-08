@@ -1,4 +1,5 @@
 # bctool-releases
+- Version 1.7.8 released on 08.05.2024 at 20:41
 - Version 1.7.8 released on 06.05.2024 at 00:24
 - Version 1.7.7 released on 17.03.2024 at 13:29
 - Version 1.7.6 released on 16.03.2024 at 22:29
