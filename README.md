@@ -1,4 +1,5 @@
 # bctool-releases
+- Version 2.5.4 released on 04.09.2024 at 20:11
 - Version 2.5.3 released on 04.09.2024 at 18:50
 - Version 2.5.2 released on 08.06.2024 at 22:47
 - Version 2.5.1 released on 07.06.2024 at 22:27
