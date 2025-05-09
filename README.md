@@ -1,4 +1,5 @@
 # bctool-releases
+- Version 3.1.5 released on 09.05.2025 at 21:50
 - Version 3.1.4 released on 08.05.2025 at 22:47
 - Version 3.1.3 released on 04.05.2025 at 10:46
 - Version 3.1.2 released on 29.04.2025 at 22:41
